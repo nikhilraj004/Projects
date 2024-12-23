@@ -279,4 +279,3 @@ https://drive.google.com/file/d/152Atm3FGCmY0dMZv9dF8FAHpPrbdi3Mn/view?usp=shari
 
 ## 9. Acknowledgements
 This project is inspired by the need for innovative and cost-effective solutions for interacting with virtual displays—special thanks to the contributors and developers of the Arduino Nano and MPU6050 libraries.
-# Interactive Air Mouse
